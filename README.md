@@ -15,3 +15,4 @@ Note :
 5. File script.py dan info.py merupakan class file yang secara berurutan mendeskripsikan hasil inspect element dan value dari data.
 
 6. Dokumen manual Test Cases : https://docs.google.com/spreadsheets/d/1Fqdn_DMLf1PH20p60YjkfQ7MF9ORbzUL9zAVcZ6Xr0I/edit?usp=sharing
+7. Capture Result & Video Automation : https://drive.google.com/drive/folders/1PTMvz3H_I_L9_6oHhKd_9TzDMKwot3Xv?usp=sharing
